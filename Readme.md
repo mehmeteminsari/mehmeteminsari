@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">Full Stack JavaScript Developer at GameFlex</h3>
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminsari&label=Profile%20views&color=0e75b6&style=flat" alt="mehmeteminsari" /> </p>
 
